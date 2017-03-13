@@ -10,3 +10,5 @@ In this project, the raw detector data are provided in files with extension ".h5
 The demonstration code was written in Python2. 
 
 To run the demonstration, download all files onto local hard-drive, and open the file "Helium-4 PSD using Machine Learning.ipynb" in Anaconda Jupyter2. 
+
+NOTE: Due to large file size, the raw data file named "Cf_VG10_g2_t100_5min_1.h5" (used in "Helium-4 PSD using Machine Learning.ipynb") cannot be uploaded.
